@@ -13,6 +13,7 @@ def get_stream_inv(station, channel, location, t1, duration):
 	st = client.get_waveforms(
         network="NZ", station=station, location=location,
         channel=channel, starttime=t1, endtime=t1 + duration)
+	st.merge(fill_value='interpolate')
 	print(st)
 	inv = client.get_stations(
 			network="NZ", station=station, 
@@ -21,21 +22,8 @@ def get_stream_inv(station, channel, location, t1, duration):
 
 	return st, inv
 
-stations = ['BFZ','PXZ','KNZ','PUZ','VRZ','URZ']
-t1 = UTCDateTime('2020-01-01T00:00:00')
-
-p5_combined = []
-p95_combined = []
-
-for station in stations:
-	st, inv = get_stream_inv(station=station, location='10', channel='HH*', t1=t1, duration=60*60*24)
-
-	print(st)
-	print(inv)
-
-
-	tr = st.select(id="NZ."+station+".10.HHZ")[0]
-
+def retrieve_percentiles(st,inv,station,location):
+	tr = st.select(id="NZ."+station+"."+location+".HHZ")[0]
 	ppsd = PPSD(tr.stats, metadata=inv)
 	ppsd.add(tr)
 	# ppsd.plot()
@@ -50,25 +38,41 @@ for station in stations:
 	plt.ylim(-200,-60)
 	plt.suptitle(station+' HNM + LNM')
 	plt.show()
-	p5_combined += p5
-	p95_combined += p95
 
-# print(p5_combined)
-# print(p95_combined)
+	return p5, p95
+
+
+stations = ['BKZ','BFZ','PXZ','KNZ','PUZ','VRZ','URZ','MWZ']
+t1 = UTCDateTime('2020-01-01T00:00:00')
+duration = 60*60*6
+# t1 = UTCDateTime('2021-03-05T22:00:00')
+
+p5_combined = []
+p95_combined = []
+
+for station in stations:
+	try:
+		st, inv = get_stream_inv(station=station, location='10', channel='HH*', t1=t1, duration=duration)
+		print(st)
+		print(inv)
+		p5, p95 = retrieve_percentiles(st=st, inv=inv, station=station, location='10')
+		p5_combined += p5
+		p95_combined += p95
+
+	except:
+		try:
+			st, inv = get_stream_inv(station=station, location='11', channel='HH*', t1=t1, duration=duration)
+			print(st)
+			print(inv)
+			p5, p95 = retrieve_percentiles(st=st, inv=inv, station=station, location='11')
+			p5_combined += p5
+			p95_combined += p95
+
+		except:
+			print('no FDSN data available for site ' + station)
+
 print(range(len(p5_combined)))
-
-# print(p5[0:121])
-print(p5_combined[1])
-print(p5_combined[3])
-print(p5_combined[5])
-print(p5_combined[7])
-print(np.shape(p5_combined))
-
-# a = np.minimum(p5_combined[1],p5_combined[3])
-# b = np.minimum(p95_combined[1],p95_combined[3])
-
-# a = np.minimum.reduce([p5_combined[1],p5_combined[3],p5_combined[5],p5_combined[7]])
-# b = np.maximum.reduce([p95_combined[1],p95_combined[3],p95_combined[5],p5_combined[7]])
+# print(np.shape(p5_combined))
 
 print(p5_combined[1::2])
 a = np.minimum.reduce(p5_combined[1::2])
@@ -81,11 +85,3 @@ plt.xscale('log')
 plt.xlim(0.02,200)
 plt.ylim(-200,-60)
 plt.show()
-
-
-
-# pre_filt = (0.01, 0.02, 0.04, 0.08)
-# st[n].detrend('linear')
-# st[n].taper(max_percentage=0.1, type='cosine')
-# st[n].remove_response(output=output, pre_filt=pre_filt, plot=False,
-#                        water_level=60, inventory=inv)

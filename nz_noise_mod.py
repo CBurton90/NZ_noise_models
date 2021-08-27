@@ -9,6 +9,7 @@ import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
 import matplotlib.patheffects as pe
 import numpy as np
+from numpy import loadtxt
 import pandas as pd
 
 from obspy import UTCDateTime, read
@@ -19,7 +20,7 @@ from obspy.signal import PPSD
 start = UTCDateTime("2020-01-01")
 end = UTCDateTime("2020-01-05")
 
-station = "BFZ"
+stations = loadtxt("NI_NN_list.txt", dtype=str, unpack=False)
 
 path = "/home/conradb/git/NZ_noise_models/NI_stations/"
 
@@ -28,19 +29,45 @@ print(datelist)
 
 
 ppsds = {}
-for day in datelist:
-    datestr = day.strftime("%Y-%m-%d")
-    print(datestr)
-    fn_pattern = "{}_*.npz".format(datestr)
-    print(fn_pattern)
-    for fn in glob(path+station+'/'+fn_pattern):
-    	print(fn)
-    	mseedid = fn.replace(".npz", "").split("_")[-1]
-    	print(mseedid)
-    	if mseedid not in ppsds:
-    		ppsds[mseedid] = PPSD.load_npz(fn, allow_pickle=True)
-    	else:
-            ppsds[mseedid].add_npz(fn, allow_pickle=True)
+
+for station in stations:
+	for day in datelist:
+	    datestr = day.strftime("%Y-%m-%d")
+	    print(datestr)
+	    fn_pattern = "{}_*.npz".format(datestr)
+	    print(fn_pattern)
+	    for fn in glob(path+station+'/'+fn_pattern):
+	    	print(fn)
+	    	mseedid = fn.replace(".npz", "").split("_")[-1]
+	    	print(mseedid)
+	    	if mseedid not in ppsds:
+	    		ppsds[mseedid] = PPSD.load_npz(fn, allow_pickle=True)
+	    	else:
+	            ppsds[mseedid].add_npz(fn, allow_pickle=True)
+
+
+p5_combined = []
+p95_combined = []
 
 for mseedid, ppsd in ppsds.items():
 	ppsd.plot()
+	p5 = ppsd.get_percentile(percentile=5)
+	p95 = ppsd.get_percentile(percentile=95)
+	p5_combined += p5
+	p95_combined += p95
+
+print(range(len(p5_combined)))
+# print(np.shape(p5_combined))
+
+print(p5_combined[1::2])
+
+lnm = np.minimum.reduce(p5_combined[1::2])
+hnm = np.maximum.reduce(p95_combined[1::2])
+
+print(lnm)
+plt.plot(p5[0],lnm)
+plt.plot(p5[0],hnm)
+plt.xscale('log')
+plt.xlim(0.02,200)
+plt.ylim(-200,-60)
+plt.show()

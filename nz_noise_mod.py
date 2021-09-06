@@ -18,7 +18,7 @@ from obspy.signal import PPSD
 
 
 start = UTCDateTime("2020-01-01")
-end = UTCDateTime("2020-01-05")
+end = UTCDateTime("2020-12-31")
 
 stations = loadtxt("NI_NN_list.txt", dtype=str, unpack=False)
 
@@ -55,10 +55,10 @@ for mseedid, ppsd in ppsds.items():
 	p5 = ppsd.get_percentile(percentile=5)
 	p95 = ppsd.get_percentile(percentile=95)
 	mode = ppsd.get_mode()
-	# plt.plot(mode[0],mode[1])
-	# plt.xscale('log')
-	# plt.xlim(0.02,200)
-	# plt.ylim(-200,-60)
+	plt.plot(mode[0],mode[1], label=mseedid)
+	plt.xscale('log')
+	plt.xlim(0.02,200)
+	plt.ylim(-200,-60)
 	# plt.show()
 	p5_combined += p5
 	p95_combined += p95
@@ -74,8 +74,8 @@ hnm = np.maximum.reduce(p95_combined[1::2])
 mlnm = np.minimum.reduce(mode_combined[1::2])
 
 print(lnm)
-plt.plot(p5[0],lnm, label='lowest combined NI NZNSN 5th percentiles')
-plt.plot(p5[0],hnm, label='highest combined NI NZNSN 95th percentiles')
+# plt.plot(p5[0],lnm, label='lowest combined NI NZNSN 5th percentiles')
+# plt.plot(p5[0],hnm, label='highest combined NI NZNSN 95th percentiles')
 plt.plot(p5[0],mlnm, label='NI MLNM')
 plt.xscale('log')
 plt.xlim(0.02,200)

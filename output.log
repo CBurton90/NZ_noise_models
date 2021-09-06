@@ -1,0 +1,1388 @@
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.KUZ (Kuaotunu)
+		Channels (2):
+			NZ.KUZ.10.HHZ (2x)
+2020-01-01_NZ.KUZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.KUZ.10.HHZ | 2019-12-31T23:29:58.998394Z - 2020-01-02T00:30:00.998394Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f0760497810>
+1 Trace(s) in Stream:
+NZ.KUZ.10.HHZ | 2019-12-31T23:29:58.998394Z - 2020-01-02T00:30:00.998394Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.KUZ (Kuaotunu)
+		Channels (2):
+			NZ.KUZ.10.HHZ (2x)
+2020-01-02_NZ.KUZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.KUZ.10.HHZ | 2020-01-01T23:29:58.998393Z - 2020-01-03T00:30:00.998393Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f07603e4a10>
+1 Trace(s) in Stream:
+NZ.KUZ.10.HHZ | 2020-01-01T23:29:58.998393Z - 2020-01-03T00:30:00.998393Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.KUZ (Kuaotunu)
+		Channels (2):
+			NZ.KUZ.10.HHZ (2x)
+2020-01-03_NZ.KUZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.KUZ.10.HHZ | 2020-01-02T23:29:58.998394Z - 2020-01-04T00:30:00.998394Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f0760395210>
+1 Trace(s) in Stream:
+NZ.KUZ.10.HHZ | 2020-01-02T23:29:58.998394Z - 2020-01-04T00:30:00.998394Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.MXZ (Matakaoa Point)
+		Channels (1):
+			NZ.MXZ.10.HHZ
+2020-01-01_NZ.MXZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.MXZ.10.HHZ | 2019-12-31T23:29:58.998393Z - 2020-01-02T00:30:00.998393Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f07604ab9d0>
+1 Trace(s) in Stream:
+NZ.MXZ.10.HHZ | 2019-12-31T23:29:58.998393Z - 2020-01-02T00:30:00.998393Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.MXZ (Matakaoa Point)
+		Channels (1):
+			NZ.MXZ.10.HHZ
+2020-01-02_NZ.MXZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.MXZ.10.HHZ | 2020-01-01T23:29:58.998391Z - 2020-01-03T00:30:00.998391Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f076021d890>
+1 Trace(s) in Stream:
+NZ.MXZ.10.HHZ | 2020-01-01T23:29:58.998391Z - 2020-01-03T00:30:00.998391Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.MXZ (Matakaoa Point)
+		Channels (1):
+			NZ.MXZ.10.HHZ
+2020-01-03_NZ.MXZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.MXZ.10.HHZ | 2020-01-02T23:29:58.998393Z - 2020-01-04T00:30:00.998393Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f07603a5810>
+1 Trace(s) in Stream:
+NZ.MXZ.10.HHZ | 2020-01-02T23:29:58.998393Z - 2020-01-04T00:30:00.998393Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.TOZ (Tahuroa Road)
+		Channels (1):
+			NZ.TOZ.10.HHZ
+2020-01-01_NZ.TOZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.TOZ.10.HHZ | 2019-12-31T23:29:58.998391Z - 2020-01-02T00:30:00.998391Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f07603a3750>
+1 Trace(s) in Stream:
+NZ.TOZ.10.HHZ | 2019-12-31T23:29:58.998391Z - 2020-01-02T00:30:00.998391Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.TOZ (Tahuroa Road)
+		Channels (1):
+			NZ.TOZ.10.HHZ
+2020-01-02_NZ.TOZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.TOZ.10.HHZ | 2020-01-01T23:29:58.998385Z - 2020-01-03T00:30:00.998385Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f07601a86d0>
+1 Trace(s) in Stream:
+NZ.TOZ.10.HHZ | 2020-01-01T23:29:58.998385Z - 2020-01-03T00:30:00.998385Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.TOZ (Tahuroa Road)
+		Channels (1):
+			NZ.TOZ.10.HHZ
+2020-01-03_NZ.TOZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.TOZ.10.HHZ | 2020-01-02T23:29:58.998385Z - 2020-01-04T00:30:00.998385Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f07601a8510>
+1 Trace(s) in Stream:
+NZ.TOZ.10.HHZ | 2020-01-02T23:29:58.998385Z - 2020-01-04T00:30:00.998385Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.HAZ (Te Kaha)
+		Channels (1):
+			NZ.HAZ.10.HHZ
+2020-01-01_NZ.HAZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.HAZ.10.HHZ | 2019-12-31T23:29:59.003126Z - 2020-01-02T00:30:01.003126Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f07601a8250>
+1 Trace(s) in Stream:
+NZ.HAZ.10.HHZ | 2019-12-31T23:29:59.003126Z - 2020-01-02T00:30:01.003126Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.HAZ (Te Kaha)
+		Channels (1):
+			NZ.HAZ.10.HHZ
+2020-01-02_NZ.HAZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.HAZ.10.HHZ | 2020-01-01T23:29:59.003127Z - 2020-01-03T00:30:01.003127Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f07603a3190>
+1 Trace(s) in Stream:
+NZ.HAZ.10.HHZ | 2020-01-01T23:29:59.003127Z - 2020-01-03T00:30:01.003127Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.HAZ (Te Kaha)
+		Channels (1):
+			NZ.HAZ.10.HHZ
+2020-01-03_NZ.HAZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.HAZ.10.HHZ | 2020-01-02T23:29:59.003184Z - 2020-01-04T00:30:01.003184Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f07603afdd0>
+1 Trace(s) in Stream:
+NZ.HAZ.10.HHZ | 2020-01-02T23:29:59.003184Z - 2020-01-04T00:30:01.003184Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.PUZ (Puketiti)
+		Channels (1):
+			NZ.PUZ.10.HHZ
+2020-01-01_NZ.PUZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.PUZ.10.HHZ | 2019-12-31T23:29:58.998396Z - 2020-01-02T00:30:00.998396Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f076021ae10>
+1 Trace(s) in Stream:
+NZ.PUZ.10.HHZ | 2019-12-31T23:29:58.998396Z - 2020-01-02T00:30:00.998396Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.PUZ (Puketiti)
+		Channels (1):
+			NZ.PUZ.10.HHZ
+2020-01-02_NZ.PUZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.PUZ.10.HHZ | 2020-01-01T23:29:58.998397Z - 2020-01-03T00:30:00.998397Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f0760247e50>
+1 Trace(s) in Stream:
+NZ.PUZ.10.HHZ | 2020-01-01T23:29:58.998397Z - 2020-01-03T00:30:00.998397Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.PUZ (Puketiti)
+		Channels (1):
+			NZ.PUZ.10.HHZ
+2020-01-03_NZ.PUZ.10.HHZ.npzInventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.OUZ (Omahuta)
+		Channels (2):
+			NZ.OUZ.10.HHZ (2x)
+2020-01-01_NZ.OUZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.OUZ.10.HHZ | 2019-12-31T23:29:58.998393Z - 2020-01-02T00:30:00.998393Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f7e902ebad0>
+1 Trace(s) in Stream:
+NZ.OUZ.10.HHZ | 2019-12-31T23:29:58.998393Z - 2020-01-02T00:30:00.998393Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.OUZ (Omahuta)
+		Channels (2):
+			NZ.OUZ.10.HHZ (2x)
+2020-01-02_NZ.OUZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.OUZ.10.HHZ | 2020-01-01T23:29:58.998393Z - 2020-01-03T00:30:00.998393Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f7e903f47d0>
+1 Trace(s) in Stream:
+NZ.OUZ.10.HHZ | 2020-01-01T23:29:58.998393Z - 2020-01-03T00:30:00.998393Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.OUZ (Omahuta)
+		Channels (2):
+			NZ.OUZ.10.HHZ (2x)
+2020-01-03_NZ.OUZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.OUZ.10.HHZ | 2020-01-02T23:29:58.998393Z - 2020-01-04T00:30:00.998393Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f7e90146390>
+1 Trace(s) in Stream:
+NZ.OUZ.10.HHZ | 2020-01-02T23:29:58.998393Z - 2020-01-04T00:30:00.998393Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.WCZ (Waipu Caves)
+		Channels (2):
+			NZ.WCZ.10.HHZ (2x)
+2020-01-01_NZ.WCZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.WCZ.10.HHZ | 2019-12-31T23:29:59.003132Z - 2020-01-02T00:30:01.003132Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f7e90146f90>
+1 Trace(s) in Stream:
+NZ.WCZ.10.HHZ | 2019-12-31T23:29:59.003132Z - 2020-01-02T00:30:01.003132Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.WCZ (Waipu Caves)
+		Channels (2):
+			NZ.WCZ.10.HHZ (2x)
+2020-01-02_NZ.WCZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.WCZ.10.HHZ | 2020-01-01T23:29:59.003130Z - 2020-01-03T00:30:01.003130Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f7e90109050>
+1 Trace(s) in Stream:
+NZ.WCZ.10.HHZ | 2020-01-01T23:29:59.003130Z - 2020-01-03T00:30:01.003130Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.WCZ (Waipu Caves)
+		Channels (2):
+			NZ.WCZ.10.HHZ (2x)
+2020-01-03_NZ.WCZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.WCZ.10.HHZ | 2020-01-02T23:29:59.003135Z - 2020-01-04T00:30:01.003135Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f7e903bcf50>
+1 Trace(s) in Stream:
+NZ.WCZ.10.HHZ | 2020-01-02T23:29:59.003135Z - 2020-01-04T00:30:01.003135Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.GRZ (Great Barrier Island)
+		Channels (2):
+			NZ.GRZ.10.HHZ (2x)
+2020-01-01_NZ.GRZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.GRZ.10.HHZ | 2019-12-31T23:29:59.003133Z - 2020-01-02T00:30:01.003133Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f7e90123fd0>
+1 Trace(s) in Stream:
+NZ.GRZ.10.HHZ | 2019-12-31T23:29:59.003133Z - 2020-01-02T00:30:01.003133Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.GRZ (Great Barrier Island)
+		Channels (2):
+			NZ.GRZ.10.HHZ (2x)
+2020-01-02_NZ.GRZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.GRZ.10.HHZ | 2020-01-01T23:29:59.003130Z - 2020-01-03T00:30:01.003130Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f7e90125ad0>
+1 Trace(s) in Stream:
+NZ.GRZ.10.HHZ | 2020-01-01T23:29:59.003130Z - 2020-01-03T00:30:01.003130Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.GRZ (Great Barrier Island)
+		Channels (2):
+			NZ.GRZ.10.HHZ (2x)
+2020-01-03_NZ.GRZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.GRZ.10.HHZ | 2020-01-02T23:29:59.002700Z - 2020-01-04T00:30:01.002700Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f7e90125090>
+1 Trace(s) in Stream:
+NZ.GRZ.10.HHZ | 2020-01-02T23:29:59.002700Z - 2020-01-04T00:30:01.002700Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.TLZ (Tolley Road)
+		Channels (1):
+			NZ.TLZ.10.HHZ
+2020-01-01_NZ.TLZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.TLZ.10.HHZ | 2019-12-31T23:29:59.003338Z - 2020-01-02T00:30:01.003338Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f7e90341fd0>
+1 Trace(s) in Stream:
+NZ.TLZ.10.HHZ | 2019-12-31T23:29:59.003338Z - 2020-01-02T00:30:01.003338Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.TLZ (Tolley Road)
+		Channels (1):
+			NZ.TLZ.10.HHZ
+2020-01-02_NZ.TLZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.TLZ.10.HHZ | 2020-01-01T23:29:59.003127Z - 2020-01-03T00:30:01.003127Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f7e900ac910>
+1 Trace(s) in Stream:
+NZ.TLZ.10.HHZ | 2020-01-01T23:29:59.003127Z - 2020-01-03T00:30:01.003127Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.TLZ (Tolley Road)
+		Channels (1):
+			NZ.TLZ.10.HHZ
+2020-01-03_NZ.TLZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.TLZ.10.HHZ | 2020-01-02T23:29:59.003195Z - 2020-01-04T00:30:01.003195Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f7e900ac590>
+1 Trace(s) in Stream:
+NZ.TLZ.10.HHZ | 2020-01-02T23:29:59.003195Z - 2020-01-04T00:30:01.003195Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.MWZ (Matawai)
+		Channels (1):
+			NZ.MWZ.10.HHZ
+2020-01-01_NZ.MWZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.MWZ.10.HHZ | 2019-12-31T23:29:59.003129Z - 2020-01-02T00:30:01.003129Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f7e902af990>
+1 Trace(s) in Stream:
+NZ.MWZ.10.HHZ | 2019-12-31T23:29:59.003129Z - 2020-01-02T00:30:01.003129Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.MWZ (Matawai)
+		Channels (1):
+			NZ.MWZ.10.HHZ
+2020-01-02_NZ.MWZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.MWZ.10.HHZ | 2020-01-01T23:29:59.003130Z - 2020-01-03T00:30:01.003130Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f7e902c0c10>
+1 Trace(s) in Stream:
+NZ.MWZ.10.HHZ | 2020-01-01T23:29:59.003130Z - 2020-01-03T00:30:01.003130Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.MWZ (Matawai)
+		Channels (1):
+			NZ.MWZ.10.HHZ/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+
+2020-01-03_NZ.MWZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.MWZ.10.HHZ | 2020-01-02T23:29:59.003132Z - 2020-01-04T00:30:01.003132Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f7e90122410>
+1 Trace(s) in Stream:
+NZ.MWZ.10.HHZ | 2020-01-02T23:29:59.003132Z - 2020-01-04T00:30:01.003132Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.HIZ (Hauiti)
+		Channels (2):
+			NZ.HIZ.10.HHZ (2x)
+2020-01-01_NZ.HIZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.HIZ.10.HHZ | 2019-12-31T23:29:58.998388Z - 2020-01-02T00:30:00.998388Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f7e9015ac50>
+1 Trace(s) in Stream:
+NZ.HIZ.10.HHZ | 2019-12-31T23:29:58.998388Z - 2020-01-02T00:30:00.998388Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.HIZ (Hauiti)
+		Channels (2):
+			NZ.HIZ.10.HHZ (2x)
+2020-01-02_NZ.HIZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.HIZ.10.HHZ | 2020-01-01T23:29:58.998389Z - 2020-01-03T00:30:00.998389Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f7e900f3950>
+1 Trace(s) in Stream:
+NZ.HIZ.10.HHZ | 2020-01-01T23:29:58.998389Z - 2020-01-03T00:30:00.998389Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.HIZ (Hauiti)
+		Channels (2):
+			NZ.HIZ.10.HHZ (2x)
+2020-01-03_NZ.HIZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.HIZ.10.HHZ | 2020-01-02T23:29:58.998389Z - 2020-01-04T00:30:00.998389Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f7e9015af50>
+1 Trace(s) in Stream:
+NZ.HIZ.10.HHZ | 2020-01-02T23:29:58.998389Z - 2020-01-04T00:30:00.998389Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.BKZ (Black Stump Farm)
+		Channels (2):
+			NZ.BKZ.10.HHZ (2x)
+2020-01-01_NZ.BKZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.BKZ.10.HHZ | 2019-12-31T23:29:58.998394Z - 2020-01-02T00:30:00.998394Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f7e902c04d0>
+1 Trace(s) in Stream:
+NZ.BKZ.10.HHZ | 2019-12-31T23:29:58.998394Z - 2020-01-02T00:30:00.998394Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.BKZ (Black Stump Farm)
+		Channels (2):
+			NZ.BKZ.10.HHZ (2x)
+2020-01-02_NZ.BKZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.BKZ.10.HHZ | 2020-01-01T23:29:58.998393Z - 2020-01-03T00:30:00.998393Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f7e90102d10>
+1 Trace(s) in Stream:
+NZ.BKZ.10.HHZ | 2020-01-01T23:29:58.998393Z - 2020-01-03T00:30:00.998393Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.BKZ (Black Stump Farm)
+		Channels (2):
+			NZ.BKZ.10.HHZ (2x)
+2020-01-03_NZ.BKZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.BKZ.10.HHZ | 2020-01-02T23:29:58.998394Z - 2020-01-04T00:30:00.998394Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f7e901026d0>
+1 Trace(s) in Stream:
+NZ.BKZ.10.HHZ | 2020-01-02T23:29:58.998394Z - 2020-01-04T00:30:00.998394Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.WAZ (Wanganui)
+		Channels (1):
+			NZ.WAZ.10.HHZ
+2020-01-01_NZ.WAZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.WAZ.10.HHZ | 2019-12-31T23:29:59.001593Z - 2020-01-02T00:30:01.001593Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f7e902c95d0>
+1 Trace(s) in Stream:
+NZ.WAZ.10.HHZ | 2019-12-31T23:29:59.001593Z - 2020-01-02T00:30:01.001593Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.WAZ (Wanganui)
+		Channels (1):
+			NZ.WAZ.10.HHZ
+2020-01-02_NZ.WAZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.WAZ.10.HHZ | 2020-01-01T23:29:59.001128Z - 2020-01-03T00:30:01.001128Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f7e90156410>
+1 Trace(s) in Stream:
+NZ.WAZ.10.HHZ | 2020-01-01T23:29:59.001128Z - 2020-01-03T00:30:01.001128Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.WAZ (Wanganui)
+		Channels (1):
+			NZ.WAZ.10.HHZ
+2020-01-03_NZ.WAZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.WAZ.10.HHZ | 2020-01-02T23:29:59.001610Z - 2020-01-04T00:30:01.001610Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f7e90102790>
+1 Trace(s) in Stream:
+NZ.WAZ.10.HHZ | 2020-01-02T23:29:59.001610Z - 2020-01-04T00:30:01.001610Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.PXZ (Pawanui)
+		Channels (2):
+			NZ.PXZ.10.HHZ (2x)
+2020-01-01_NZ.PXZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.PXZ.10.HHZ | 2019-12-31T23:29:59.003178Z - 2020-01-02T00:30:01.003178Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f7e900f3150>
+1 Trace(s) in Stream:
+NZ.PXZ.10.HHZ | 2019-12-31T23:29:59.003178Z - 2020-01-02T00:30:01.003178Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.PXZ (Pawanui)
+		Channels (2):
+			NZ.PXZ.10.HHZ (2x)
+2020-01-02_NZ.PXZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.PXZ.10.HHZ | 2020-01-01T23:29:59.003139Z - 2020-01-03T00:30:01.003139Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f7e902c0cd0>
+1 Trace(s) in Stream:
+NZ.PXZ.10.HHZ | 2020-01-01T23:29:59.003139Z - 2020-01-03T00:30:01.003139Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.PXZ (Pawanui)
+		Channels (2):
+			NZ.PXZ.10.HHZ (2x)
+2020-01-03_NZ.PXZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.PXZ.10.HHZ | 2020-01-02T23:29:59.003128Z - 2020-01-04T00:30:01.003128Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f7e902c3cd0>
+1 Trace(s) in Stream:
+NZ.PXZ.10.HHZ | 2020-01-02T23:29:59.003128Z - 2020-01-04T00:30:01.003128Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.WEL (Wellington)
+		Channels (1):
+			NZ.WEL.10.HHZ
+2020-01-01_NZ.WEL.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.WEL.10.HHZ | 2019-12-31T23:29:59.003133Z - 2020-01-02T00:30:01.003133Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f7e902c3e50>
+1 Trace(s) in Stream:
+NZ.WEL.10.HHZ | 2019-12-31T23:29:59.003133Z - 2020-01-02T00:30:01.003133Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.WEL (Wellington)
+		Channels (1):
+			NZ.WEL.10.HHZ
+2020-01-02_NZ.WEL.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.WEL.10.HHZ | 2020-01-01T23:29:59.003129Z - 2020-01-03T00:30:01.003129Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f7e90119dd0>
+
+1 Trace(s) in Stream:
+NZ.PUZ.10.HHZ | 2020-01-02T23:29:58.998396Z - 2020-01-04T00:30:00.998396Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f076024a050>
+1 Trace(s) in Stream:
+NZ.PUZ.10.HHZ | 2020-01-02T23:29:58.998396Z - 2020-01-04T00:30:00.998396Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.URZ (Urewera)
+		Channels (2):
+			NZ.URZ.10.HHZ (2x)
+2020-01-01_NZ.URZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.URZ.10.HHZ | 2019-12-31T23:29:58.998396Z - 2020-01-02T00:30:00.998396Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f0760242810>
+1 Trace(s) in Stream:
+NZ.URZ.10.HHZ | 2019-12-31T23:29:58.998396Z - 2020-01-02T00:30:00.998396Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.URZ (Urewera)
+		Channels (2):
+			NZ.URZ.10.HHZ (2x)
+2020-01-02_NZ.URZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.URZ.10.HHZ | 2020-01-01T23:29:58.998397Z - 2020-01-03T00:30:00.998397Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f07602134d0>
+1 Trace(s) in Stream:
+NZ.URZ.10.HHZ | 2020-01-01T23:29:58.998397Z - 2020-01-03T00:30:00.998397Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.URZ (Urewera)
+		Channels (2):
+			NZ.URZ.10.HHZ (2x)
+2020-01-03_NZ.URZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.URZ.10.HHZ | 2020-01-02T23:29:58.998338Z - 2020-01-04T00:30:00.998338Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f0760213c10>
+1 Trace(s) in Stream:
+NZ.URZ.10.HHZ | 2020-01-02T23:29:58.998338Z - 2020-01-04T00:30:00.998338Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.RTZ (Ruatahuna)
+		Channels (1):
+			NZ.RTZ.10.HHZ
+2020-01-01_NZ.RTZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.RTZ.10.HHZ | 2019-12-31T23:29:59.003073Z - 2020-01-02T00:30:01.003073Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f0760213a90>
+1 Trace(s) in Stream:
+NZ.RTZ.10.HHZ | 2019-12-31T23:29:59.003073Z - 2020-01-02T00:30:01.003073Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.RTZ (Ruatahuna)
+		Channels (1):
+			NZ.RTZ.10.HHZ
+2020-01-02_NZ.RTZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.RTZ.10.HHZ | 2020-01-01T23:29:59.003135Z - 2020-01-03T00:30:01.003135Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f076050be10>
+1 Trace(s) in Stream:
+NZ.RTZ.10.HHZ | 2020-01-01T23:29:59.003135Z - 2020-01-03T00:30:01.003135Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.RTZ (Ruatahuna)
+		Channels (1):
+			NZ.RTZ.10.HHZ
+2020-01-03_NZ.RTZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.RTZ.10.HHZ | 2020-01-02T23:29:59.003114Z - 2020-01-04T00:30:01.003114Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f07601ef190>
+1 Trace(s) in Stream:
+NZ.RTZ.10.HHZ | 2020-01-02T23:29:59.003114Z - 2020-01-04T00:30:01.003114Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.KNZ (Kokohu)
+		Channels (1):
+			NZ.KNZ.10.HHZ
+2020-01-01_NZ.KNZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.KNZ.10.HHZ | 2019-12-31T23:29:59.003132Z - 2020-01-02T00:30:01.003132Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f076050b5d0>
+1 Trace(s) in Stream:
+NZ.KNZ.10.HHZ | 2019-12-31T23:29:59.003132Z - 2020-01-02T00:30:01.003132Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.KNZ (Kokohu)
+		Channels (1):
+			NZ.KNZ.10.HHZ
+2020-01-02_NZ.KNZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.KNZ.10.HHZ | 2020-01-01T23:29:59.003073Z - 2020-01-03T00:30:01.003073Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f07601ef2d0>
+1 Trace(s) in Stream:
+NZ.KNZ.10.HHZ | 2020-01-01T23:29:59.003073Z - 2020-01-03T00:30:01.003073Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.KNZ (Kokohu)
+		Channels (1):
+			NZ.KNZ.10.HHZ
+2020-01-03_NZ.KNZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.KNZ.10.HHZ | 2020-01-02T23:29:59.003132Z - 2020-01-04T00:30:01.003132Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f07602423d0>
+1 Trace(s) in Stream:
+NZ.KNZ.10.HHZ | 2020-01-02T23:29:59.003132Z - 2020-01-04T00:30:01.003132Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.VRZ (Vera Road)
+		Channels (1):
+			NZ.VRZ.10.HHZ
+2020-01-01_NZ.VRZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.VRZ.10.HHZ | 2019-12-31T23:29:59.003089Z - 2020-01-02T00:30:01.003089Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f07602135d0>
+1 Trace(s) in Stream:
+NZ.VRZ.10.HHZ | 2019-12-31T23:29:59.003089Z - 2020-01-02T00:30:01.003089Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.VRZ (Vera Road)
+		Channels (1):
+			NZ.VRZ.10.HHZ
+2020-01-02_NZ.VRZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.VRZ.10.HHZ | 2020-01-01T23:29:59.003131Z - 2020-01-03T00:30:01.003131Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f076025db10>
+1 Trace(s) in Stream:
+NZ.VRZ.10.HHZ | 2020-01-01T23:29:59.003131Z - 2020-01-03T00:30:01.003131Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.VRZ (Vera Road)
+		Channels (1):
+			NZ.VRZ.10.HHZ
+2020-01-03_NZ.VRZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.VRZ.10.HHZ | 2020-01-02T23:29:59.002988Z - 2020-01-04T00:30:01.002988Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f07601ef4d0>
+1 Trace(s) in Stream:
+NZ.VRZ.10.HHZ | 2020-01-02T23:29:59.002988Z - 2020-01-04T00:30:01.002988Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.TSZ (Takapari Road)
+		Channels (1):
+			NZ.TSZ.10.HHZ
+2020-01-01_NZ.TSZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.TSZ.10.HHZ | 2019-12-31T23:29:59.003130Z - 2020-01-02T00:30:01.003130Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f076025dd10>
+1 Trace(s) in Stream:
+NZ.TSZ.10.HHZ | 2019-12-31T23:29:59.003130Z - 2020-01-02T00:30:01.003130Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.TSZ (Takapari Road)
+		Channels (1):
+			NZ.TSZ.10.HHZ
+2020-01-02_NZ.TSZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.TSZ.10.HHZ | 2020-01-01T23:29:59.003115Z - 2020-01-03T00:30:01.003115Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f0760399650>
+1 Trace(s) in Stream:
+NZ.TSZ.10.HHZ | 2020-01-01T23:29:59.003115Z - 2020-01-03T00:30:01.003115Z | 100.0 Hz, 9000201 samples/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+1 Trace(s) in Stream:
+NZ.WEL.10.HHZ | 2020-01-01T23:29:59.003129Z - 2020-01-03T00:30:01.003129Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.WEL (Wellington)
+		Channels (1):
+			NZ.WEL.10.HHZ
+2020-01-03_NZ.WEL.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.WEL.10.HHZ | 2020-01-02T23:29:59.003129Z - 2020-01-04T00:30:01.003129Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f7e9014a890>
+1 Trace(s) in Stream:
+NZ.WEL.10.HHZ | 2020-01-02T23:29:59.003129Z - 2020-01-04T00:30:01.003129Z | 100.0 Hz, 9000201 samples
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.TSZ (Takapari Road)
+		Channels (1):
+			NZ.TSZ.10.HHZ
+2020-01-03_NZ.TSZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.TSZ.10.HHZ | 2020-01-02T23:29:59.003130Z - 2020-01-04T00:30:01.003130Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f076025dc10>
+1 Trace(s) in Stream:
+NZ.TSZ.10.HHZ | 2020-01-02T23:29:59.003130Z - 2020-01-04T00:30:01.003130Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.MRZ (Mangatainoka River)
+		Channels (1):
+			NZ.MRZ.10.HHZ
+2020-01-01_NZ.MRZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.MRZ.10.HHZ | 2019-12-31T23:29:58.998394Z - 2020-01-02T00:30:00.998394Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f076022b350>
+1 Trace(s) in Stream:
+NZ.MRZ.10.HHZ | 2019-12-31T23:29:58.998394Z - 2020-01-02T00:30:00.998394Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.MRZ (Mangatainoka River)
+		Channels (1):
+			NZ.MRZ.10.HHZ
+2020-01-02_NZ.MRZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.MRZ.10.HHZ | 2020-01-01T23:29:58.998393Z - 2020-01-03T00:30:00.998393Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f0760225dd0>
+1 Trace(s) in Stream:
+NZ.MRZ.10.HHZ | 2020-01-01T23:29:58.998393Z - 2020-01-03T00:30:00.998393Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.MRZ (Mangatainoka River)
+		Channels (1):
+			NZ.MRZ.10.HHZ
+2020-01-03_NZ.MRZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.MRZ.10.HHZ | 2020-01-02T23:29:58.998393Z - 2020-01-04T00:30:00.998393Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f07601a8a50>
+1 Trace(s) in Stream:
+NZ.MRZ.10.HHZ | 2020-01-02T23:29:58.998393Z - 2020-01-04T00:30:00.998393Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.BFZ (Birch Farm)
+		Channels (2):
+			NZ.BFZ.10.HHZ (2x)
+2020-01-01_NZ.BFZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.BFZ.10.HHZ | 2019-12-31T23:29:58.998391Z - 2020-01-02T00:30:00.998391Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f0760225390>
+1 Trace(s) in Stream:
+NZ.BFZ.10.HHZ | 2019-12-31T23:29:58.998391Z - 2020-01-02T00:30:00.998391Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.BFZ (Birch Farm)
+		Channels (2):
+			NZ.BFZ.10.HHZ (2x)
+2020-01-02_NZ.BFZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.BFZ.10.HHZ | 2020-01-01T23:29:58.998393Z - 2020-01-03T00:30:00.998393Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f07601ef150>
+1 Trace(s) in Stream:
+NZ.BFZ.10.HHZ | 2020-01-01T23:29:58.998393Z - 2020-01-03T00:30:00.998393Z | 100.0 Hz, 9000201 samples
+Inventory created at 2021-09-02T03:36:23.000000Z
+	Created by: Delta
+		    
+	Sending institution: GeoNet (WEL(GNS_Test))
+	Contains:
+		Networks (1):
+			NZ
+		Stations (1):
+			NZ.BFZ (Birch Farm)
+		Channels (2):
+			NZ.BFZ.10.HHZ (2x)
+2020-01-03_NZ.BFZ.10.HHZ.npz
+1 Trace(s) in Stream:
+NZ.BFZ.10.HHZ | 2020-01-02T23:29:58.998400Z - 2020-01-04T00:30:00.998400Z | 100.0 Hz, 9000201 samples
+<obspy.signal.spectral_estimation.PPSD object at 0x7f076025dd90>
+1 Trace(s) in Stream:
+NZ.BFZ.10.HHZ | 2020-01-02T23:29:58.998400Z - 2020-01-04T00:30:00.998400Z | 100.0 Hz, 9000201 samples
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+/home/conradb/anaconda3/envs/obspy/lib/python3.7/site-packages/obspy/io/stationxml/core.py:98: UserWarning: The StationXML file has version 1, ObsPy can read versions (1.0, 1.1). Proceed with caution.
+  version, ", ".join(READABLE_VERSIONS)))
+[('NZ', 'OUZ', 'HHZ', UTCDateTime(2020, 1, 1, 0, 0), UTCDateTime(2020, 1, 3, 0, 0), '/home/conradb/git/NZ_noise_models/NI_stations/'), ('NZ', 'WCZ', 'HHZ', UTCDateTime(2020, 1, 1, 0, 0), UTCDateTime(2020, 1, 3, 0, 0), '/home/conradb/git/NZ_noise_models/NI_stations/'), ('NZ', 'GRZ', 'HHZ', UTCDateTime(2020, 1, 1, 0, 0), UTCDateTime(2020, 1, 3, 0, 0), '/home/conradb/git/NZ_noise_models/NI_stations/'), ('NZ', 'KUZ', 'HHZ', UTCDateTime(2020, 1, 1, 0, 0), UTCDateTime(2020, 1, 3, 0, 0), '/home/conradb/git/NZ_noise_models/NI_stations/'), ('NZ', 'MXZ', 'HHZ', UTCDateTime(2020, 1, 1, 0, 0), UTCDateTime(2020, 1, 3, 0, 0), '/home/conradb/git/NZ_noise_models/NI_stations/'), ('NZ', 'TOZ', 'HHZ', UTCDateTime(2020, 1, 1, 0, 0), UTCDateTime(2020, 1, 3, 0, 0), '/home/conradb/git/NZ_noise_models/NI_stations/'), ('NZ', 'HAZ', 'HHZ', UTCDateTime(2020, 1, 1, 0, 0), UTCDateTime(2020, 1, 3, 0, 0), '/home/conradb/git/NZ_noise_models/NI_stations/'), ('NZ', 'PUZ', 'HHZ', UTCDateTime(2020, 1, 1, 0, 0), UTCDateTime(2020, 1, 3, 0, 0), '/home/conradb/git/NZ_noise_models/NI_stations/'), ('NZ', 'URZ', 'HHZ', UTCDateTime(2020, 1, 1, 0, 0), UTCDateTime(2020, 1, 3, 0, 0), '/home/conradb/git/NZ_noise_models/NI_stations/'), ('NZ', 'TLZ', 'HHZ', UTCDateTime(2020, 1, 1, 0, 0), UTCDateTime(2020, 1, 3, 0, 0), '/home/conradb/git/NZ_noise_models/NI_stations/'), ('NZ', 'MWZ', 'HHZ', UTCDateTime(2020, 1, 1, 0, 0), UTCDateTime(2020, 1, 3, 0, 0), '/home/conradb/git/NZ_noise_models/NI_stations/'), ('NZ', 'HIZ', 'HHZ', UTCDateTime(2020, 1, 1, 0, 0), UTCDateTime(2020, 1, 3, 0, 0), '/home/conradb/git/NZ_noise_models/NI_stations/'), ('NZ', 'RTZ', 'HHZ', UTCDateTime(2020, 1, 1, 0, 0), UTCDateTime(2020, 1, 3, 0, 0), '/home/conradb/git/NZ_noise_models/NI_stations/'), ('NZ', 'KNZ', 'HHZ', UTCDateTime(2020, 1, 1, 0, 0), UTCDateTime(2020, 1, 3, 0, 0), '/home/conradb/git/NZ_noise_models/NI_stations/'), ('NZ', 'VRZ', 'HHZ', UTCDateTime(2020, 1, 1, 0, 0), UTCDateTime(2020, 1, 3, 0, 0), '/home/conradb/git/NZ_noise_models/NI_stations/'), ('NZ', 'BKZ', 'HHZ', UTCDateTime(2020, 1, 1, 0, 0), UTCDateTime(2020, 1, 3, 0, 0), '/home/conradb/git/NZ_noise_models/NI_stations/'), ('NZ', 'WAZ', 'HHZ', UTCDateTime(2020, 1, 1, 0, 0), UTCDateTime(2020, 1, 3, 0, 0), '/home/conradb/git/NZ_noise_models/NI_stations/'), ('NZ', 'PXZ', 'HHZ', UTCDateTime(2020, 1, 1, 0, 0), UTCDateTime(2020, 1, 3, 0, 0), '/home/conradb/git/NZ_noise_models/NI_stations/'), ('NZ', 'TSZ', 'HHZ', UTCDateTime(2020, 1, 1, 0, 0), UTCDateTime(2020, 1, 3, 0, 0), '/home/conradb/git/NZ_noise_models/NI_stations/'), ('NZ', 'MRZ', 'HHZ', UTCDateTime(2020, 1, 1, 0, 0), UTCDateTime(2020, 1, 3, 0, 0), '/home/conradb/git/NZ_noise_models/NI_stations/'), ('NZ', 'BFZ', 'HHZ', UTCDateTime(2020, 1, 1, 0, 0), UTCDateTime(2020, 1, 3, 0, 0), '/home/conradb/git/NZ_noise_models/NI_stations/'), ('NZ', 'WEL', 'HHZ', UTCDateTime(2020, 1, 1, 0, 0), UTCDateTime(2020, 1, 3, 0, 0), '/home/conradb/git/NZ_noise_models/NI_stations/')]
+243.97083813500012

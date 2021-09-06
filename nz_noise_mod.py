@@ -48,13 +48,21 @@ for station in stations:
 
 p5_combined = []
 p95_combined = []
+mode_combined = []
 
 for mseedid, ppsd in ppsds.items():
-	ppsd.plot()
+	# ppsd.plot()
 	p5 = ppsd.get_percentile(percentile=5)
 	p95 = ppsd.get_percentile(percentile=95)
+	mode = ppsd.get_mode()
+	# plt.plot(mode[0],mode[1])
+	# plt.xscale('log')
+	# plt.xlim(0.02,200)
+	# plt.ylim(-200,-60)
+	# plt.show()
 	p5_combined += p5
 	p95_combined += p95
+	mode_combined += mode
 
 print(range(len(p5_combined)))
 # print(np.shape(p5_combined))
@@ -63,11 +71,14 @@ print(p5_combined[1::2])
 
 lnm = np.minimum.reduce(p5_combined[1::2])
 hnm = np.maximum.reduce(p95_combined[1::2])
+mlnm = np.minimum.reduce(mode_combined[1::2])
 
 print(lnm)
-plt.plot(p5[0],lnm)
-plt.plot(p5[0],hnm)
+plt.plot(p5[0],lnm, label='lowest combined NI NZNSN 5th percentiles')
+plt.plot(p5[0],hnm, label='highest combined NI NZNSN 95th percentiles')
+plt.plot(p5[0],mlnm, label='NI MLNM')
 plt.xscale('log')
 plt.xlim(0.02,200)
 plt.ylim(-200,-60)
+plt.legend()
 plt.show()

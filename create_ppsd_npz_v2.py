@@ -21,6 +21,8 @@ from obspy.signal import PPSD
 
 from timeit import default_timer as timer
 
+from itertools import cycle
+
 
 
 

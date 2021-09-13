@@ -16,6 +16,7 @@ from cycler import cycler
 from obspy import UTCDateTime, read
 from obspy.clients.fdsn import Client
 from obspy.signal import PPSD
+from obspy.signal.spectral_estimation import get_nlnm, get_nhnm
 
 
 start = UTCDateTime("2020-01-01")
@@ -31,7 +32,11 @@ print(datelist)
 
 ppsds = {}
 
-for station in stations:
+# loop through stations (array reversed for colour visibility on plots i.e. darker blues/purples
+# are assigned to WAZ/WEL at the top away from the MLNM) and load each daily ppsd and combine to
+# produce yearly (2020) station ppsd's in a dictionary
+
+for station in stations[::-1]:
 	for day in datelist:
 	    datestr = day.strftime("%Y-%m-%d")
 	    print(datestr)
@@ -46,13 +51,11 @@ for station in stations:
 	    	else:
 	            ppsds[mseedid].add_npz(fn, allow_pickle=True)
 
+# create some empty lists for use later
 
 p5_combined = []
 p95_combined = []
 mode_combined = []
-
-# prop_cycle = plt.rcParams['axes.prop_cycle']
-# colors = cycle(prop_cycle.by_key()['color'])
 
 # plotting parameters
 
@@ -60,7 +63,7 @@ num = len(stations)
 styles = ['solid', 'dashed', 'dashdot', 'dotted']
 num_styles = len(styles)
 
-fig = plt.figure()
+fig = plt.figure(figsize=(18,9))
 ax = fig.add_subplot(111)
 
 # trying a few different colormaps
@@ -72,7 +75,7 @@ ax = fig.add_subplot(111)
 ax.set_prop_cycle('color',plt.cm.jet(np.linspace(0,1,num)))
 
 # cycle through dictionary to grab individual station percentiles and modes 
-# (modes also plotted) then combine in an array/list
+# (modes also plotted) then combine in a larger array/list
 
 for i, (mseedid, ppsd) in enumerate(ppsds.items()):
 	# ppsd.plot()
@@ -117,12 +120,24 @@ stacked = np.stack((period_idx, power))
 print(stacked)
 np.save('North_Island_MLNM.npy', stacked)
 
+# get Petersons NHNM and NLNM for comparison
+
+per, nlnm = get_nlnm()
+per, nhnm = get_nhnm()
+
 # print(lnm)
 # plt.plot(p5[0],lnm, label='lowest combined NI NZNSN 5th percentiles')
 # plt.plot(p5[0],hnm, label='highest combined NI NZNSN 95th percentiles')
 ax.plot(p5[0],mlnm, c='k', linestyle='dashed', label='NI MLNM')
+ax.plot(per, nlnm, color='darkgrey', linewidth=2, linestyle='dashed')
+ax.plot(per, nhnm, color='darkgrey', linewidth=2, linestyle='dashed', label='NLNM/NHNM')
+plt.title("North Island Mode Low Noise Model", fontsize=15)
 plt.xscale('log')
 plt.xlim(0.02,200)
+plt.xlabel('Period (s)')
 plt.ylim(-200,-60)
-plt.legend()
-plt.show()
+plt.ylabel('dB[m^2/s^4/Hz]')
+plt.legend(loc='center left', bbox_to_anchor=(1, 0.5))
+# plt.legend()
+# plt.show()
+plt.savefig('/home/conradb/git/NZ_noise_models/figures/NI_MLNM.png', dpi=400, format='png')

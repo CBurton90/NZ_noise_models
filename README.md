@@ -1,2 +1,14 @@
 # NZ_noise_models
-Attempt at creating a high-noise and low-noise model for both the North and South Island of NZ  
+Attempt at creating a high-noise and low-noise model for both the North and South Island of NZ
+
+## Motivation
+
+To characterise the background ambient seismic noise at a station over a range of frequencies the construction of a noise model reflected from the stations power spectral density (PSD) is often the standard. Different approaches have been taken over the years to extract a low-noise and high-noise baseline/threshold but by far the most commonly used has been that of Peterson (Peterson 1993) in which he computed a New Low Noise Model (NLNM) and New High Noise Model (NHNM) by estimating the PSD's of the background noise from 75 stations in the Global Seismograph network (GSN). McNamara and Buland (McNamara and Buland 2004) further extended Petersons noise estimation method by examining the distribution of PSD's using a probability density function (PDF) which is often referred to as a probabilistic power spectral density (PPSD). Due to the age of Petersons NLNM/NHNM (20+ years) and the fact that extremely quiet GSN stations from large contiental interiors were used (ANMO/QSPA) it is often seen that such low noise levels of the NLNM are unattainable for other national seismic networks. With population growth and increased urbanisation near stations these noise levels from 20/30 years ago will progressively become an unrealistic threshold thus McNamara and Buland suggested that for routine monitoring purposes a low noise model produced from a stations PPSD statistical mode (highest probability) should be used to create a Mode Low Noise Model (MLNM). The MLNM is created from the minimum of all station PPSD mode values (per octave) to form a combined low noise threshold for the particular network under examination and may change with time as population increases and technology evolves.
+
+For McNamara and Buland their particular focus for creating a MLNM was the Advanced National Seismic System (ANSS) in the United States. S.J Rastin (S.J Rastin 2012) further investigated the concept of a MLNM presented above for the North Island of New Zealand by analysing 5 years of recordings (2005-2009) from the New Zealand National Seismograph Network (NZNSN). A North Island MLNM was produced from processing done in PQLX and a comprehensive discussion had on the comparisons of each station to this low-noise mode baseline.
+
+My desire here is to do two things really: 
+
+1. "Pythonise" the creation of the MLNM so it can be done for any seismic network and output the model into a csv and numpy binary format so it can be read in with any seismic PSD plot produced in python/obspy for a realistic low noise baseline comparison for that particular station(s) and related seismic network.        
+
+2. Create a MLNM and HNM (high-noise model) for both the North and South Islands of New Zealand from NZNSN recordings in 2020 and save each in the formats above.

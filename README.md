@@ -15,8 +15,14 @@ My desire here is to do two things really:
 
 ### Using the scripts (work in progress)
 
-First you need to define a list of stations to create the model. I have created two `.txt` files; `NI_NN_list.txt` define the North Island stations of the NZNSN and `SI_NN_list.txt` defines the South Island NZNSN stations.
+First you need to define a list of stations to create the model. I have created two `.txt` files; `NI_NN_list.txt` defines the North Island stations of the NZNSN and `SI_NN_list.txt` defines the South Island NZNSN stations.
 
 Run `create_folders.sh` to create the station folders from the `.txt` station lists. The newly created individual station folders are used to store the daily ppsd files. Some changes to the path may be needed depending on how you name your folder (i.e. different seismic network).
 
-The script used to produce the daily station ppsd's is `create_ppsd_npz_v2.py`. It is designed to run with parrallel processing and therefore you can change the number of cpu cores to use. As I was processing seismic data for the entire year of 2020 (for all NI/SI stations) I ran this externally within a more powerful compute space of 80 cores of which I used 30. For example processing all the North Island station daily ppsd's for 2020 takes 5040 seconds (84 minutes) with 30 cores used. You can also edit the station list, network, channel/component, FDSN client, path, and timeframe.       
+The script used to produce the daily station ppsd's is `create_ppsd_npz_v2.py`. It is designed to run with parrallel processing and therefore you can change the number of cpu cores to use. As I was processing seismic data for the entire year of 2020 (for all NI/SI stations) I ran this externally within a more powerful compute space of 80 cores of which I used 30. For example processing all the North Island station daily ppsd's for 2020 takes 5040 seconds (84 minutes) with 30 cores used. You can also edit the station list, network, channel/component, FDSN client, path, and timeframe.
+
+Finally, to create the MLNM, plot, and save it in csv/npy format run `nz_noise_mod.py`. Again editing the timeframe, station list, and file paths will be needed. The repo in it's present state has all of the North Island station ppsd's for 2020 already stored in their folders so you can run the script as is to create the North Island MLNM for 2020.
+
+## The NZNSN North Island Mode Low Noise Model (NI_MLNM)
+
+![alt text](https://github.com/CBurton90/NZ_noise_models/figures/NI_MLNM.png?raw=true)       

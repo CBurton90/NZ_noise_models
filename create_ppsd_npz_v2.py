@@ -157,7 +157,7 @@ processes = cpu_count()
 
 network = "NZ"
 start = UTCDateTime("2020-01-01")
-end = UTCDateTime("2020-01-03")
+end = UTCDateTime("2020-12-31")
 stations = loadtxt("NI_NN_list.txt", dtype=str, unpack=False)
 channel = "HHZ"
 path = "/home/conradb/git/NZ_noise_models/NI_stations/"

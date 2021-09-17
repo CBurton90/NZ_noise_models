@@ -25,4 +25,8 @@ Finally, to create the MLNM, plot, and save it in csv/npy format run `nz_noise_m
 
 ## The NZNSN North Island Mode Low Noise Model (NI_MLNM)
 
-![Image description](https://github.com/CBurton90/NZ_noise_models/blob/main/figures/NI_MLNM.png)      
+![Image description](https://github.com/CBurton90/NZ_noise_models/blob/main/figures/NI_MLNM.png)
+
+## The NZNSN South Island Mode Low Noise Model (SI_MLNM)
+
+![Image description](https://github.com/CBurton90/NZ_noise_models/blob/main/figures/SI_MLNM.png)   

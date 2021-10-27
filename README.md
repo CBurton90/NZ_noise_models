@@ -29,4 +29,10 @@ Finally, to create the MLNM, plot, and save it in csv/npy format run `nz_noise_m
 
 ## The NZNSN South Island Mode Low Noise Model (SI_MLNM)
 
-![Image description](https://github.com/CBurton90/NZ_noise_models/blob/main/figures/SI_MLNM.png)   
+![Image description](https://github.com/CBurton90/NZ_noise_models/blob/main/figures/SI_MLNM.png)
+
+### References
+
+S. J. Rastin, C. P. Unsworth, K. R. Gledhill, D. E. McNamara; A Detailed Noise Characterization and Sensor Evaluation of the North Island of New Zealand Using the PQLX Data Quality Control System. Bulletin of the Seismological Society of America 2012;; 102 (1): 98–113. doi: https://doi.org/10.1785/0120110064
+
+Daniel E. McNamara, Raymond P. Buland; Ambient Noise Levels in the Continental United States. Bulletin of the Seismological Society of America 2004;; 94 (4): 1517–1527. doi: https://doi.org/10.1785/012003001
